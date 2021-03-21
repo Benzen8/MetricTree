@@ -1,0 +1,14 @@
+com/metrictree/ReactNativeFlipper.java
+ com.metrictree.ReactNativeFlipper
+ com.metrictree.ReactNativeFlipper$1
+ com.metrictree.ReactNativeFlipper$2
+ com.metrictree.ReactNativeFlipper$2$1
+com/metrictree/MainActivity.java
+ com.metrictree.MainActivity
+com/metrictree/MainApplication.java
+ com.metrictree.MainApplication
+ com.metrictree.MainApplication$1
+com/metrictree/BuildConfig.java
+ com.metrictree.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
